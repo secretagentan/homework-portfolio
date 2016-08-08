@@ -1,13 +1,12 @@
 body {
 	text-align: center;
-	margin:100px;
+	margin:50px 200px;
 	font-family: "century gothic";
 }
 
 h1 {
 	color:#FFFFFF;
-	background: #000000;
-	border:2px solid black;
+	background:#FA8072;
 }	
 
 h2 {
@@ -20,15 +19,15 @@ img {
 }
 
 img:hover {
-	width:400px;
+	width:400px;#FA8072
 }
 
 a {
-	color:#FA8072;
+	color:#FFD700;
 }
 
 a:hover {
-	color:#FFD700;
+	color:#FA8072;
 }
 
 footer {
